@@ -1,2 +1,5 @@
-# task-manager
-Build a Task Management Application API Develop a simple Task Management App API using PHP (Yii2) and Mysql. The API should allow users to create, update, delete, and view tasks. Each task should have a title, description, due date, and status (e.g., pending, in progress, completed).
+Express JS Node JS Complete Authentication API
+To Run this Project via NPM follow below:
+npm install
+npm run dev
+There is a Folder "express-api" which has Postman Collection File You can import this file in your postman to test this API
